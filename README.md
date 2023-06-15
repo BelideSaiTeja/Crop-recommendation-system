@@ -19,7 +19,11 @@ In this project, I presented a Crop Recommendation System as follows:
 
 # BUILT WITH
 [NUMPY](https://numpy.org/)
+
 [PANDAS](https://pandas.pydata.org/)
+
 [MATPLOTLIB](https://matplotlib.org/)
+
 [SEABORN](https://seaborn.pydata.org/)
+
 [SCIKIT LEARN](https://scikit-learn.org/stable/)
