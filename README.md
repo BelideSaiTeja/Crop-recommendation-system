@@ -27,3 +27,9 @@ In this project, I presented a Crop Recommendation System as follows:
 [SEABORN](https://seaborn.pydata.org/)
 
 [SCIKIT LEARN](https://scikit-learn.org/stable/)
+
+# FURTHER IMPROVEMENTS
+ * Model can be deployed on any Platform to make it user friendly 
+ * More data can be collected manually via web scrapping to make the system more accurate
+ * Additional plant data can be collected to make the crop recommendation to make it more robust and generalized
+
