@@ -18,8 +18,8 @@ In this project, I presented a Crop Recommendation System as follows:
 [CROP RECOMMENDATION DATASET](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 
 # BUILT WITH
-![numpy](https://github.com/BelideSaiTeja/Crop-recommendation-system/assets/94059134/0c26957d-ff5d-4426-af46-f7eaa2d849b0)
-![pandas](https://github.com/BelideSaiTeja/Crop-recommendation-system/assets/94059134/bb858f23-ae53-4ba4-baa7-c8e90642a1fd)
-![matplotlib](https://github.com/BelideSaiTeja/Crop-recommendation-system/assets/94059134/e39200f7-4c0e-4d7a-b49b-cf071590f7d5)
-![seaborn](https://github.com/BelideSaiTeja/Crop-recommendation-system/assets/94059134/1a4ffcfd-53e6-4a6e-a25b-c499071b2ff6)
-![scikit learn](https://github.com/BelideSaiTeja/Crop-recommendation-system/assets/94059134/645f3b1a-0240-43a5-a25f-22a59e367bd4)
+[NUMPY](https://numpy.org/)
+[PANDAS](https://pandas.pydata.org/)
+[MATPLOTLIB](https://matplotlib.org/)
+[SEABORN](https://seaborn.pydata.org/)
+[SCIKIT LEARN](https://scikit-learn.org/stable/)
